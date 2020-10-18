@@ -15,4 +15,4 @@ Ben Kimim :?
 💻 | Reddit • https://www.reddit.com/user/StacheNoisy <br>
 
 <hr>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Zepplinmanershow_icons=true&theme=buefy&bg_color=fff0"></a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zepplinmaner)](https://github.com/anuraghazra/github-readme-stats)
