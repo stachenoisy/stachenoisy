@@ -7,7 +7,12 @@ Ben Kimim :?
 | Bir Çok Sertifika Sahibi Birisi ,
 | ve Denizci Birisi...
 
-💻 | Languages • HTML , CSS , JavaScript , A Little Bit Lua And a Little More C# , C++
-💻 | Discord • ! ℂ★ ♣♥ Stache ♥♣ I The~God !#0007
-💻 | Steam • https://steamcommunity.com/id/justlivethis
-💻 | Reddit • https://www.reddit.com/user/StacheNoisy
+<br>
+
+💻 | Languages • HTML , CSS , JavaScript , A Little Bit Lua And a Little More C# , C++ <br>
+💻 | Discord • ! ℂ★ ♣♥ Stache ♥♣ I The~God !#0007 <br>
+💻 | Steam • https://steamcommunity.com/id/justlivethis <br>
+💻 | Reddit • https://www.reddit.com/user/StacheNoisy <br>
+
+<hr>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Zepplinmanershow_icons=true&theme=buefy&bg_color=fff0"></a>
