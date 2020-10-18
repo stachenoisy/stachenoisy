@@ -17,8 +17,6 @@ Ben Kimim :?
 <hr>
 <p href=""><p>
   
-  <center>
-  <p> Merba<p>
-  </center>
+  <p align="center"> Merba<p>
   
 <p href=""><p>
