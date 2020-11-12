@@ -19,7 +19,7 @@ Ben Kimim :?
   
 <p align="center">
 
-<img style="align: center;" src="http://stachemsc.xyz/github.svg"></img>
+<img style="margin-left: auto; margin-right: auto;" src="http://stachemsc.xyz/github.svg"></img>
 
 <p>
   
