@@ -18,9 +18,7 @@ Ben Kimim :?
 <p href=""><p>
   
 <p align="center">
-<center>
-<img style="margin-left: auto; margin-right: auto;" src="http://stachemsc.xyz/github.svg"></img>
-</center>
+<img style="margin-left: auto;" src="http://stachemsc.xyz/github.svg"></img>
 <p>
   
 <p href=""><p>
