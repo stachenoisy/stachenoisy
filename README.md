@@ -17,7 +17,7 @@ Ben Kimim :?
 <hr>
 <p href=""><p>
   
-  <p align="center"> Merba<p>
+  <p align="center"><img src="https://github.com/twbs/icons/raw/main/.github/preview.png" alt="Bootstrap Icons full set" style="max-width:100%;"><p>
   
 <p href=""><p>
 </div>
