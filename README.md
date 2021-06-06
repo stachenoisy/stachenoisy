@@ -1,11 +1,4 @@
-Ben Kimim :?
 <div>
-| Kendi Çapında Gelişmeye Çalışan Birisi , <br>
-| Kendisi Gibi Birçok Kişiye Yardım Edip Öğreten Birisi , <br>
-| Birçok Topluluk Yöneticisi Birisi , <br>
-| Yarı Profesyonel Pazarlamacı Birisi , <br>
-| Bir Çok Sertifika Sahibi Birisi , <br>
-| ve Denizci Birisi... <br>
 
 <br>
 
