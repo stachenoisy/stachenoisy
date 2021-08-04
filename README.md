@@ -3,7 +3,7 @@
 <br>
 
 💻 | Languages • PHP , CSS , JavaScript , A Little Bit Lua And a Little More C# , C++ <br>
-💻 | Discord • ! ℂ★ ♣♥ Stache ♥♣ I The~God !#0007 <br>
+💻 | Discord • 🖤 ➖Sтαcнє ➖ 💛I TheRuthless#8642
 💻 | Steam • https://steamcommunity.com/id/justlivethis <br>
 💻 | Reddit • https://www.reddit.com/user/StacheNoisy <br>
 
