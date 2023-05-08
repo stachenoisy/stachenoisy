@@ -2,7 +2,7 @@
 
 <br>
 
-💻 | Languages • PHP , CSS , JavaScript , Lua And a Little More C# , C++ <br>
+💻 | Languages • PHP , CSS , JavaScript , Vue , Electron , Lua , C# <br>
 💻 | Discord • 🖤 ➖Sтαcнє ➖ 💛I TheRuthless#8642 <br>
 💻 | Steam • https://steamcommunity.com/id/justlivethis <br>
 💻 | Reddit • https://www.reddit.com/user/StacheNoisy <br>
