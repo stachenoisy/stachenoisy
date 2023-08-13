@@ -11,7 +11,7 @@
 <p href=""><p>
   
 <p align="center">
-<img style="margin-left: auto;" src="http://stachemsc.xyz/github.svg"></img>
+<!--<img style="margin-left: auto;" src="http://stachemsc.xyz/github.svg"></img>-->
 <p>
   
 <p href=""><p>
